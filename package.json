@@ -1,0 +1,26 @@
+{
+  "name": "e2d",
+  "version": "0.0.0",
+  "description": "A lightweight 2D game engine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "engine",
+    "e2d"
+  ],
+  "author": "Jack Dalton <jack@jackdalton.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-insert": "^0.5.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace-task": "^0.11.0",
+    "gulp-uglify": "^1.5.1",
+    "jshint": "^2.9.1-rc1",
+    "mocha": "^2.3.4"
+  }
+}
