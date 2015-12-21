@@ -1,14 +1,15 @@
 {
   "name": "e2d",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A lightweight 2D game engine.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "keywords": [
     "engine",
-    "e2d"
+    "e2d",
+    "2d"
   ],
   "author": "Jack Dalton <jack@jackdalton.org>",
   "license": "MIT",
